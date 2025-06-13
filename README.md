@@ -24,8 +24,8 @@ I am always striving for excellence and continuous learning, adapting to new tec
 
 ## Technical Skills
 
-- **Languages**: JavaScript, Python, PHP, SQL, Bash, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Flask, Express, WordPress, Drupal, Selenium
+- **Languages**: JavaScript, Python, PHP, SQL, Bash, HTML, CSS, Java
+- **Frameworks & Libraries**: React, Node.js, Flask, Express, WordPress, Drupal, Selenium, SpringBoot
 - **Tools & Platforms**: Git, PostMan, LightHouse, Figma, Google Analytics, MS Excel, Litmus, Elementor, Heroku, NginX, Apache
 - **Operating Systems**: Windows, Linux
 - **Methodologies**: Agile, TDD, Waterfall
@@ -34,26 +34,30 @@ I am always striving for excellence and continuous learning, adapting to new tec
 
 ## Projects
 
-### 1. [Extractio](https://omnitechbros.ddns.net:591/)
+### 1. [Investment_Portfolio](https://github.com/DONALDBZR/investment_portfolio)
+
+It is my own investment portfolio where it helps me to keep track of all of my investments.  It is developed using **React**, **SpringBoot**, and **Bash**.
+
+### 2. [Extractio](https://omnitechbros.ddns.net:591/)
 
 A web-based **YouTube Downloader** developed using **React**, **Flask**, **Selenium**, **SQL**, and **Bash**.  The project allows users to download videos from YouTube with a focus on efficiency and ease of use.
 
-### 2. [ImpactRadar](https://github.com/DONALDBZR/Corporate_Dabase_Builder)
+### 3. [ImpactRadar](https://github.com/DONALDBZR/Corporate_Dabase_Builder)
 
 A corporate database builder using **Selenium**, **SQL**, and **Bash** for automated scraping.  This project is designed to gather corporate data from public sources and create a comprehensive and searchable database.
 
-### 3. [Portfolio](https://omnitechbros.ddns.net:8080/)
+### 4. [Portfolio](https://omnitechbros.ddns.net:8080/)
 
 My personal portfolio website, showcasing my projects, skills, and background.  Developed with **React**, **PHP**, **Node.js**, and **Express**, this site follows **SEO best practices** and includes rich UI/UX.
 
-### 4. [Guara](https://pypi.org/project/guara/)
+### 5. [Guara](https://pypi.org/project/guara/)
 
 A Python-based **UI test automation framework** designed with a transaction-based approach, **async** execution, and **GPT** support.  The framework is optimized for testing the functionality of web applications through simulated user interactions.
 
 ## Work Experience
 
 ### Freelance Full-Stack Developer  
-(5.28 years)  
+(5.44 years)  
 *Self-employed*  
 - Worked on various projects including **web development**, **UI/UX design**, **SEO optimization**, and **database management** for clients in **accounting**, **multimedia**, and **tourism** industries.  
 - Led projects from conception to delivery, ensuring client requirements were met on time and within budget.
