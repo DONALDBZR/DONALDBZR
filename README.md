@@ -56,7 +56,7 @@ A Python-based **UI test automation framework** designed with a transaction-base
 
 ## Work Experience
 
-### Junior Software Developer  
+### Developer Analyst
 *MIPS IT Solutions LTD* (0.04 years)  
 - Worked with a team of 9 developers in the **finance** sector.
 - Focused on backend development using **PHP**, and **SQL**.
