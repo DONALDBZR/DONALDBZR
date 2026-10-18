@@ -57,12 +57,12 @@ A Python-based **UI test automation framework** designed with a transaction-base
 ## Work Experience
 
 ### Developer Analyst
-*MIPS IT Solutions LTD* (0.04 years)  
+*MIPS IT Solutions LTD* (1.35 years)  
 - Worked with a team of 9 developers in the **finance** sector.
 - Focused on backend development using **PHP**, and **SQL**.
 
 ### Freelance Full-Stack Developer  
-(5.44 years)  
+(6.80 years)  
 *Self-employed*  
 - Worked on various projects including **web development**, **UI/UX design**, **SEO optimization**, and **database management** for clients in **accounting**, **multimedia**, and **tourism** industries.  
 - Led projects from conception to delivery, ensuring client requirements were met on time and within budget.
